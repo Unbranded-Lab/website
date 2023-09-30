@@ -25,14 +25,44 @@ export default () => {
     <AnimationRevealPage>
       <Hero
         // heading={<>Compact, Stylish & Minimalist <HighlightedText>In Your Pocket.</HighlightedText></>}
-        heading={<>Compact, Stylish & Minimalist</>}
-        description="The Primo minimalist bifold leather wallet is compact but roomy enough to hold various cards and bills in your front pocket."
-        imageSrc="products/primo.jpg"
+        heading={<>High-quality, Stylish & Minimalist</>}
+        description={
+          <Description>
+            The Suprimo premium bifold leather wallet is compact but roomy enough to hold various cards and bills in your front pocket.
+            <br/><br/>
+            Made using Pueblo vegetable tanned leather, from the famous Badalassi Carlo tannery in Italy, exuding a unique textured looking surface that can easily acquire a dark patina.
+          </Description>
+        }
+        imageSrc="products/suprimo.jpg"
         imageCss={imageCss}
         imageDecoratorBlob={true}
         primaryButtonText="Order Now"
-        primaryButtonUrl="https://facebook.com/unbrandedlabph"
-        watchVideoButtonText="Meet Primo"
+        primaryButtonUrl="https://shopee.ph/Unbranded-Lab-Suprimo-Minimalist-Bifold-Leather-Wallet-Italian-full-grain-leather-i.492151255.14299516432"
+        watchVideoButtonText="Meet Suprimo"
+      />
+
+      <MainFeature
+        subheading={<Subheading>  </Subheading>}
+        heading={
+          <>
+            More affordable yet high-quality
+          </>
+        }
+        description={
+          <Description>
+            The Primo minimalist bifold leather wallet is the classic version of Suprimo that is made from crazy horse full-grain leather sourced locally in the Philippines.
+          </Description>
+        }
+        buttonRounded={false}
+        textOnLeft={false}
+        primaryButtonText="Order Now"
+        primaryButtonUrl="https://shopee.ph/Unbranded-Lab-Primo-Minimalist-Bifold-Leather-Wallet-Crazy-Horse-Full-grain-leather-i.492151255.23075715384"
+        imageSrc={
+          "products/primo.jpg"
+        }
+        imageCss={imageCss}
+        imageDecoratorBlob={true}
+        imageDecoratorBlobCss={tw`left-1/2 -translate-x-1/2 md:w-32 md:h-32 opacity-25`}
       />
 
       {/* FIXME: EGO - UNUSED BLOCK */}

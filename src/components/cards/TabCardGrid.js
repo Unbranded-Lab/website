@@ -70,7 +70,17 @@ export default ({
         price: "PHP 999",
         rating: "5.0",
         reviews: "0",
-        url: "https://facebook.com/unbrandedlabph"
+          url: "https://shopee.ph/Unbranded-Lab-Primo-Minimalist-Bifold-Leather-Wallet-Crazy-Horse-Full-grain-leather-i.492151255.23075715384"
+      },
+      {
+        imageSrc:
+          "/products/suprimo/suprimo-navy-lifestyle-coffee-table.jpg",
+        title: "Suprimo",
+        content: "Premium bifold leather wallet",
+        price: "PHP 1,999",
+        rating: "5.0",
+        reviews: "0",
+        url: "https://shopee.ph/Unbranded-Lab-Suprimo-Minimalist-Bifold-Leather-Wallet-Italian-full-grain-leather-i.492151255.14299516432"
       },
       {
         imageSrc:

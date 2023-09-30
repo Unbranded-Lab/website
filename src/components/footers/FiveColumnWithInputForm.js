@@ -83,7 +83,10 @@ export default () => {
             <ColumnHeading>Products</ColumnHeading>
             <LinkList>
               <LinkListItem>
-                <Link href="https://facebook.com/unbrandedlabph">Primo Leather Wallet</Link>
+                <Link href="https://shopee.ph/Unbranded-Lab-Primo-Minimalist-Bifold-Leather-Wallet-Crazy-Horse-Full-grain-leather-i.492151255.23075715384">Primo Leather Wallet</Link>
+              </LinkListItem>
+              <LinkListItem>
+                <Link href="https://shopee.ph/Unbranded-Lab-Suprimo-Minimalist-Bifold-Leather-Wallet-Italian-full-grain-leather-i.492151255.14299516432">Suprimo Premium Leather Wallet</Link>
               </LinkListItem>
               <LinkListItem>
                 <Link href="https://linensandlayers.ph/products/unbranded-lab-white-unisex-lab-coat-lab-gown-laboratory-coat-for-adult">Laboratory Coat</Link>
