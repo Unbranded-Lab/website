@@ -83,6 +83,9 @@ export default () => {
             <ColumnHeading>Products</ColumnHeading>
             <LinkList>
               <LinkListItem>
+                <Link href="https://linensandlayers.ph/products/unbranded-lab-minimalist-a6-notebook-planner-bullet-journal-dotted-ruled">A6 Notebook</Link>
+              </LinkListItem>
+              <LinkListItem>
                 <Link href="https://shopee.ph/Unbranded-Lab-Primo-Minimalist-Bifold-Leather-Wallet-Crazy-Horse-Full-grain-leather-i.492151255.23075715384">Primo Leather Wallet</Link>
               </LinkListItem>
               <LinkListItem>

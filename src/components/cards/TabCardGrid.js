@@ -64,6 +64,16 @@ export default ({
     All: [
       {
         imageSrc:
+          "/products/notebook/a6-notebook-cover.jpg",
+        title: "A6 Notebook",
+        content: "Minimalist A6 Notebook / Journal / Planner",
+        price: "PHP 99",
+        rating: "5.0",
+        reviews: "0",
+          url: "https://linensandlayers.ph/products/unbranded-lab-minimalist-a6-notebook-planner-bullet-journal-dotted-ruled"
+      },
+      {
+        imageSrc:
           "/products/primo/primo-lifestyle-coffee-computer.jpg",
         title: "Primo",
         content: "Minimalist bifold leather wallet",
@@ -87,17 +97,27 @@ export default ({
           "/products/laboratory-coat/laboratory-coat-cover.jpg",
         title: "Laboratory Coat",
         content: "Unisex Laboratory Coat for Adult",
-        price: "PHP 360",
+        price: "PHP 415",
         rating: "5.0",
         reviews: "0",
         url: "https://linensandlayers.ph/products/unbranded-lab-white-unisex-lab-coat-lab-gown-laboratory-coat-for-adult"
       },
       {
         imageSrc:
+          "/products/laboratory-coat/laboratory-coat-for-kids-cover.jpg",
+        title: "Kids Laboratory Coat",
+        content: "Unisex Laboratory Coat for Kids",
+        price: "PHP 335",
+        rating: "5.0",
+        reviews: "0",
+        url: "https://linensandlayers.ph/products/unbranded-lab-white-unisex-lab-coat-lab-gown-laboratory-coat-for-kids"
+      },
+      {
+        imageSrc:
           "/products/flat-sheet/flat-sheet-cover.jpg",
         title: "Bed Sheet",
         content: "White Stripes Sheet with Pillowcase",
-        price: "PHP 850",
+        price: "PHP 980",
         rating: "4.9",
         reviews: "89",
         url: "https://linensandlayers.ph/products/unbranded-lab-bedding-set-fitted-sheet-bed-sheet-white-stripes-sheet-with-pillowcase-250-thread-count"
@@ -107,7 +127,7 @@ export default ({
           "/products/school-uniform/school-uniform-katrina-cover.jpg",
         title: "School Uniform",
         content: "Unisex White School Polo Uniform - Straight Cut",
-        price: "PHP 175",
+        price: "PHP 200",
         rating: "4.9",
         reviews: "89",
         url: "https://linensandlayers.ph/products/unbranded-lab-unisex-white-school-polo-uniform-straight-cut-katrina"
@@ -117,7 +137,7 @@ export default ({
           "/products/tote-bag/tote-bag-cover.jpg",
         title: "Tote Bag",
         content: "Plain Canvas Shoulder Bag with Base ",
-        price: "PHP 70",
+        price: "PHP 80",
         rating: "4.9",
         reviews: "89",
         url: "https://shopee.ph/Plain-Canvas-Tote-Bag-Shoulder-Bag-with-Base-Natural-Color-i.12679069.18967512169"
@@ -127,7 +147,7 @@ export default ({
           "/products/flannel-cloth/flannel-cloth-cover.jpg",
         title: "Flannel Cloth",
         content: "100% Cotton - Dusting / Cleaning / Polishing",
-        price: "PHP 12",
+        price: "PHP 14",
         rating: "4.6",
         reviews: "12",
         url: "https://linensandlayers.ph/products/unbranded-lab-multi-purpose-flannel-cloth-100-cotton-dusting-cleaning-polishing"
