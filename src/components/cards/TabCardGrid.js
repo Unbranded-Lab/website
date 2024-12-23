@@ -64,6 +64,26 @@ export default ({
     All: [
       {
         imageSrc:
+          "/products/table-napkin/luncheon-table-napkin.jpg",
+        title: "Fabric Luncheon Table Napkin",
+        content: "Linen Cotton Blend Luncheon Table Napkin",
+        price: "PHP 130",
+        rating: "5.0",
+        reviews: "0",
+          url: "https://linensandlayers.ph/products/unbranded-lab-fabric-luncheon-table-napkin-linen-cotton-blend-16x16-inches"
+      },
+      {
+        imageSrc:
+          "/products/table-napkin/dinner-table-napkin.jpg",
+        title: "Fabric Dinner Table Napkin",
+        content: "Linen Cotton Blend Dinner Table Napkin",
+        price: "PHP 200",
+        rating: "5.0",
+        reviews: "0",
+          url: "https://linensandlayers.ph/products/unbranded-lab-fabric-dinner-table-napkin-linen-cotton-blend-22x22-inches"
+      },
+      {
+        imageSrc:
           "/products/notebook/a6-notebook-cover.jpg",
         title: "A6 Notebook",
         content: "Minimalist A6 Notebook / Journal / Planner",

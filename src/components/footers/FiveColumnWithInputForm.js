@@ -83,6 +83,12 @@ export default () => {
             <ColumnHeading>Products</ColumnHeading>
             <LinkList>
               <LinkListItem>
+                <Link href="https://linensandlayers.ph/products/unbranded-lab-fabric-luncheon-table-napkin-linen-cotton-blend-16x16-inches">Luncheon Table Napkin</Link>
+              </LinkListItem>
+              <LinkListItem>
+                <Link href="https://linensandlayers.ph/products/unbranded-lab-fabric-dinner-table-napkin-linen-cotton-blend-22x22-inches">Dinner Table Napkin</Link>
+              </LinkListItem>
+              <LinkListItem>
                 <Link href="https://linensandlayers.ph/products/unbranded-lab-minimalist-a6-notebook-planner-bullet-journal-dotted-ruled">A6 Notebook</Link>
               </LinkListItem>
               <LinkListItem>
